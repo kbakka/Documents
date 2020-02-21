@@ -5,3 +5,5 @@ We will learn
 Docker
 Kubernetes
 Jenkins
+GitHub
+Kafka
