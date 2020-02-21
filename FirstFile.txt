@@ -2,11 +2,11 @@ Welcome to Debabrata's first Github check-in
 
 I've to learn 
 
-Docker
-Kubernetes
-Jenkins
-GitHub
-Kafka
-Airflow
-Postgres
-Cassandra
+ Docker
+ Kubernetes
+ Jenkins
+ GitHub
+ Kafka
+ Airflow
+ Postgres
+ Cassandra
