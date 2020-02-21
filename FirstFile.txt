@@ -1,9 +1,12 @@
 Welcome to Debabrata's first Github check-in
 
-We will learn 
+I've to learn 
 
 Docker
 Kubernetes
 Jenkins
 GitHub
 Kafka
+Airflow
+Postgres
+Cassandra
