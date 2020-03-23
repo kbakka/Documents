@@ -8,3 +8,4 @@ Visual Studio Code
 Python
 Plotly Dash
 
+Not sure if I've to keep the changes
