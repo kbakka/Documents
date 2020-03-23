@@ -1,0 +1,10 @@
+Kafka
+Kubernetees
+GitHub
+Docker
+Airflow
+Postgres
+Visual Studio Code
+Python
+Plotly Dash
+
