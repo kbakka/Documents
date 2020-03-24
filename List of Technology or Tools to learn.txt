@@ -8,3 +8,4 @@ Visual Studio Code
 Python
 Plotly Dash
 
+Addem comments by Krishna Bakka
